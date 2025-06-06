@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 I’m passionate about building efficient, user-friendly tools that solve real problems — fast.  
-Instead of reinventing the wheel, I believe in using the **power of no-code/low-code platforms** like **Trae AI**, **Cursor**, **Supabase**, and **Windsurf AI** to build, deploy, and scale apps quickly.
+Instead of reinventing the wheel, I believe in using the **power of no-code/low-code platforms** like **Trae AI**, **Cursor**, **Supabase**, and **Windsurf AI, etc..** to build, deploy, and scale apps quickly.
 
 💼 Currently focused on:
 - Creating useful **web & mobile apps** that boost productivity
