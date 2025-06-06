@@ -35,7 +35,7 @@ Instead of reinventing the wheel, I believe in using the **power of no-code/low-
 - 📄 No-login tools with clean UI & fast load time
 
 Check out my latest work at:  
-🔗 [GitHub Pages Website](https://intellihub09.github.io/)
+🔗 [GitHub Pages Website](https://teja09t.github.io/)
 
 ---
 
