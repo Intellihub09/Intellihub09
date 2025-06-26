@@ -1,47 +1,57 @@
-# 👋 Hi, I'm Teja Thota
+<!-- Header section -->
+<h1 align="center">Hey there, I'm Teja Thota 👋</h1>
 
-🚀 A creator who blends **AI, no-code tools**, and smart automation to turn ideas into real-world digital products.
+<p align="center">
+  🚀 Tech Enthusiast • 🤖 AI Developer • 🔁 Automation Architect
+</p>
 
----
-
-## 💡 About Me
-
-I’m passionate about building efficient, user-friendly tools that solve real problems — fast.  
-Instead of reinventing the wheel, I believe in using the **power of no-code/low-code platforms** like **Trae AI**, **Cursor**, **Supabase**, and **Windsurf AI, etc..** to build, deploy, and scale apps quickly.
-
-💼 Currently focused on:
-- Creating useful **web & mobile apps** that boost productivity
-- Exploring **multi-agent workflows** with AI and automation
-- Building a **passive income stream** from smart, scalable tools
+<p align="center">
+  <a href="https://github.com/teja09t"><img src="https://komarev.com/ghpvc/?username=teja09t&label=Profile%20Views&color=blueviolet&style=flat-square" alt="teja09t" /></a>
+</p>
 
 ---
 
-## 🛠️ My Tools & Tech Stack
+### 🧠 About Me
 
-- **AI/Automation:** Trae AI, MCP Server, Cursor, Windsurf AI  
-- **Backend & Auth:** Supabase, Firebase  
-- **Frontend/UI:** Stitch, Framer, Streamlit, Gradio  
-- **Mobile Apps:** Bubble, WebViewGold, Natively.dev  
-- **Other:** GitHub Actions, Jekyll, Markdown, GitHub Pages
+I'm a passionate technologist who builds and deploys **AI-powered apps** and **automated workflows** to help businesses scale smarter.
 
----
-
-## 🌐 My Projects
-
-✨ I’m building and publishing:
-- 🧠 AI-powered apps
-- 🧰 Office tools for professionals
-- 📲 Mobile-first web utilities
-- 📄 No-login tools with clean UI & fast load time
+- 🛠️ I work with **LangChain**, **OpenAI**, and **Anthropic** to create advanced LLM agents  
+- 🔄 I automate systems using **n8n**, **Zapier**, and **Make**  
+- 📱 I design apps using **Bubble**, **Streamlit**, **Gradio**, and **Flutter**  
+- ☁️ I deploy projects using **GitHub**, **Replit**, and **Firebase**
 
 ---
 
-## 📫 Let’s Connect!
+### 💼 Projects Focused On
 
-- GitHub: [github.com/Intellihub09](https://github.com/Intellihub09)
-*(Feel free to collaborate or say hi!)*
+- 🤖 AI Personal Assistants & Automation Bots  
+- 📈 Business Tools for Marketing, Content, and Analytics  
+- 🧩 Multi-agent LLM Workflows  
+- 🎬 YouTube Automation for Faceless Content (e.g., ASMR)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja09t&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja09t&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@teja09t](https://github.com/teja09t)
+- Twitter/X: Coming Soon
+- Portfolio Site: (Coming Soon)
+
+---
+
+> *"Build fast. Automate smart. Scale globally."*
+
 
 > “The best tools are simple, smart, and built with intention.”  
+
+
 > — Teja Thota
